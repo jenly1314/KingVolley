@@ -7,7 +7,7 @@ KingVolley 是 Volley的二次封装。
 
    Email: jenly1314@gmail.com / jenly1314@vip.qq.com
 
-   CSDN: http://www.csdn.net/jenly121
+   CSDN: http://blog.csdn.net/jenly121
 
    Github: https://github.com/jenly1314
 
